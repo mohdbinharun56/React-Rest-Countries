@@ -4,3 +4,20 @@
     padding: 15px;
     border-radius: 15px;
 }
+
+.btn-visited{
+    cursor: pointer;
+    border-radius: 10px;
+    background: #000;
+    color: wheat;
+    width: 100px;
+    height: 40px;
+    font-weight: 600;
+    margin-right: 10px;
+    margin-top: 10px;
+    transition: 1s;
+}
+
+.btn-visited:hover{
+    background: tomato;
+}
