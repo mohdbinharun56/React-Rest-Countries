@@ -21,3 +21,8 @@
 .btn-visited:hover{
     background: tomato;
 }
+
+.visited{
+    background-color: cadetblue;;
+    color: wheat;
+}
